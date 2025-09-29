@@ -7,7 +7,7 @@ STEPS FOR INPUT DATA PROCESSING:
 1. Generate DSMs. Use GEE script or DM_creation_pdal.ipynb for LiDAR data. (note, need to add DEM only)
 2. Generate Met Data. Download met data from ERA5 reanalysis, then run Met_Data_Prep.ipynb.
 
-STEPS FOR CREATING SVFS:
+STEPS FOR CREATING SIMULATIONS:
 1. Run on longleaf (faster, but need GPUs) - or run via QGIS (much slower)
 
 STEPS FOR RUNNING SIMULATIONS 
